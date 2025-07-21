@@ -1,1 +1,1 @@
-Today I Learned from July 21, 2025  in SSAFY
+TIL (today i learned) from July 21, 2025  in SSAFY
