@@ -6,7 +6,7 @@
 
 **변수와 메모리**
 
-![image.png](attachment:8bcb7779-73c9-4b6b-80ff-c324a88cf387:image.png)
+![image.png](images/image.png)
 
 ## 타입 Type
 
@@ -27,7 +27,7 @@
 
 ### 산술 연산자
 
-![image.png](attachment:ab2db189-c821-4131-a421-93dc974ea891:image.png)
+![image.png](images/image-1.png)
 
 ### 시퀀스 타입의 5가지 공통 특징
 
@@ -46,8 +46,8 @@
 
 문자열 내에 변수나 표현식의 결과를 손쉽게 삽입하는 강력한 방법
 
-![image.png](attachment:fe32fc2a-5876-48d8-b186-f6677badf405:image.png)
+![image.png](images/image-2.png)
 
 ### 시퀀스로서의 문자열 활용
 
-![image.png](attachment:9ad42d7c-08bd-4155-8913-55405d9b0375:image.png)
+![image.png](images/image-3.png)
